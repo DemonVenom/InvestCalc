@@ -1,0 +1,3 @@
+# InvestCalc
+
+⦁	Create a class InvestCalc that computes the future value of an investment at a given annual rate of interest for a specified number of years. The formula is: futureValue = investAmount * (1 + monthlyInterestRate)years * 12. Use text fields for investment amount, annual interest rate, years, and future value (the latter is uneditable). The Operation menu contains two items: Calculate and Exit. The Help menu contains one item: Future Value, which when selected displays in a JOptionPane how the future value is calculated. The Future value should be displayed whenever the user selects Calculate from the Operation menu OR clicks the Calculate button. Provide a driver in a separate source file to test your class.
